@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="enter_text_to_translate">Enter Text to Translate</string>
+    <string name="translate">Translate</string>
+</resources>
